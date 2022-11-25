@@ -1,0 +1,6 @@
+# Add paths not to include
+
+catboost_info
+data
+eda_out
+outputs
